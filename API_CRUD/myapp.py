@@ -60,3 +60,5 @@ def delete_data():
     print(data)
 
 delete_data()
+
+print('Hello bangladesh')

@@ -17,3 +17,6 @@ class StudenstSerializers(serializers.Serializer):
         instance.city = validated_data.get('city',instance.city)
         instance.save()
         return instance
+
+
+print('Hello bangladesh')
